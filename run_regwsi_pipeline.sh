@@ -1,4 +1,4 @@
-#!/bin/bash\
+#!/bin/bash
 # Simple wrapper to run the RegWSI pipeline\
 \
 echo "==================================================================================="\
