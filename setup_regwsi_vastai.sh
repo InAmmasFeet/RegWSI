@@ -1,4 +1,4 @@
-#!/bin/bash\
+#!/bin/bash
 # Setup script for RegWSI on vast.ai Ubuntu container\
 # Optimized for H200 GPU with CUDA 12.4\
 \
